@@ -9,3 +9,4 @@ Git is a version control system.
 Git is free software.
 
 宋子奇 已阅
+王子麒 已同意
